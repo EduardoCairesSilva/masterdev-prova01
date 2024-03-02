@@ -44,5 +44,3 @@ test('testa se a funcao obedece os requisitos', () => {
     log("===============================");
 
 });
-
-

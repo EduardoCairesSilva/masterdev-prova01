@@ -9,4 +9,9 @@ function executar(numero) {
         return "";
     }
 }
+
+for (let i = 1; i <= 100; i++) {
+    let resultado = executar(i);
+    console.log(i, resultado);
+}
 module.exports = executar;
